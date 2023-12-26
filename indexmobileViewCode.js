@@ -20,7 +20,7 @@ setTimeout(() => {
     onKeyPressInitialy(); 
 }, 800);
 
-if($("h1").text()==="Let us play a game"  ||$("h1").text()==="Game Over, Press Any Key to Restart" ){
+if($("h1").text()==="Click the Color"  ||$("h1").text()==="Game Over, Press Any Key to Restart" ){
 
 
   $(".btn").on("click", function(satya){
